@@ -11,11 +11,11 @@ This project analyzes City General Hospital’s data to tackle challenges like E
 --- 
  
 ## Project Objective 
-i.	Identify trends in admissions by day to improve staff scheduling.
-ii.	Review medication uses and lab results to reduce waste and improve accuracy.
-iii.	Assess billing and insurance to find underpayments and financial opportunities.
-iv.	Analyze patient demographics to align resources with actual needs.
-v.	Evaluate doctor workload and suggest ways to balance patient assignments.
+-	Identify trends in admissions by day to improve staff scheduling.
+-Review medication uses and lab results to reduce waste and improve accuracy.
+-Assess billing and insurance to find underpayments and financial opportunities.
+-Analyze patient demographics to align resources with actual needs.
+-Evaluate doctor workload and suggest ways to balance patient assignments.
 
 --- 
  
