@@ -31,13 +31,13 @@ This project analyzes City General Hospital’s data to tackle challenges like E
  
 --- 
 ## Key Findings
--Most patients are 50–59-year-old females
--Highest admissions occur on Thursdays, highlighting peak demand days.
--Aetna Insurance shows lower payment amounts compared to other providers,while Cigna has the highest billing payments. Medicare covers the largest number of patients, whereas Cigna has the fewest
--Top 10 doctors handle the majority of patients, while some doctors have significantly fewer cases.
--Lipitor is used most frequently and should be prioritized for restocking.
--Emergency cases spike on Tuesdays, requiring staff and resource planning.
--Out of 55,500 tests, 19,425 are inconclusive, indicating potential issues with lab processes or equipment.( Approximately 35% of tests are inconclusive)
+- Most patients are 50–59-year-old females
+- Highest admissions occur on Thursdays, highlighting peak demand days.
+- Aetna Insurance shows lower payment amounts compared to other providers,while Cigna has the highest billing payments. Medicare covers the largest number of patients, whereas Cigna has the fewest
+- Top 10 doctors handle the majority of patients, while some doctors have significantly fewer cases.
+- Lipitor is used most frequently and should be prioritized for restocking.
+- Emergency cases spike on Tuesdays, requiring staff and resource planning.
+- Out of 55,500 tests, 19,425 are inconclusive, indicating potential issues with lab processes or equipment.( Approximately 35% of tests are inconclusive)
 
 --- 
 ## Recommendations 
