@@ -12,10 +12,10 @@ This project analyzes City General Hospital’s data to tackle challenges like E
  
 ## Project Objective 
 -	Identify trends in admissions by day to improve staff scheduling.
--Review medication uses and lab results to reduce waste and improve accuracy.
--Assess billing and insurance to find underpayments and financial opportunities.
--Analyze patient demographics to align resources with actual needs.
--Evaluate doctor workload and suggest ways to balance patient assignments.
+-	Review medication uses and lab results to reduce waste and improve accuracy.
+-	Assess billing and insurance to find underpayments and financial opportunities.
+-	Analyze patient demographics to align resources with actual needs.
+-	Evaluate doctor workload and suggest ways to balance patient assignments.
 
 --- 
  
@@ -31,13 +31,13 @@ This project analyzes City General Hospital’s data to tackle challenges like E
  
 --- 
 ## Key Findings
-•	Most patients are 50–59-year-old females
-•	Highest admissions occur on Thursdays, highlighting peak demand days.
-•	Aetna Insurance shows lower payment amounts compared to other providers,while Cigna has the highest billing payments. Medicare covers the largest number of patients, whereas Cigna has the fewest
-•	Top 10 doctors handle the majority of patients, while some doctors have significantly fewer cases.
-•	Lipitor is used most frequently and should be prioritized for restocking.
-•	Emergency cases spike on Tuesdays, requiring staff and resource planning.
-•	Out of 55,500 tests, 19,425 are inconclusive, indicating potential issues with lab processes or equipment.( Approximately 35% of tests are inconclusive)
+1.Most patients are 50–59-year-old females
+2.Highest admissions occur on Thursdays, highlighting peak demand days.
+3.Aetna Insurance shows lower payment amounts compared to other providers,while Cigna has the highest billing payments. Medicare covers the largest number of patients, whereas Cigna has the fewest
+4.Top 10 doctors handle the majority of patients, while some doctors have significantly fewer cases.
+5.Lipitor is used most frequently and should be prioritized for restocking.
+6.Emergency cases spike on Tuesdays, requiring staff and resource planning.
+7.Out of 55,500 tests, 19,425 are inconclusive, indicating potential issues with lab processes or equipment.( Approximately 35% of tests are inconclusive)
 
 --- 
 ## Recommendations 
