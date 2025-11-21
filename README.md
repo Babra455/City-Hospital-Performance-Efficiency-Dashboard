@@ -22,6 +22,7 @@ v.	Evaluate doctor workload and suggest ways to balance patient assignments.
 ## Datasets 
 
 **Patients.csv / Patients.xlsx** - patient ID, age, gender, blood type, medical condition, date of admission, doctor, hospital, insurance provider, billing amount, room number, admission type, discharge date, medication, test results, hospital latitude, hospital longitude
+
 --- 
 ## Dashboard Features 
 -	Key KPIs: total patients, average waiting, total doctors  
@@ -37,6 +38,7 @@ v.	Evaluate doctor workload and suggest ways to balance patient assignments.
 •	Lipitor is used most frequently and should be prioritized for restocking.
 •	Emergency cases spike on Tuesdays, requiring staff and resource planning.
 •	Out of 55,500 tests, 19,425 are inconclusive, indicating potential issues with lab processes or equipment.( Approximately 35% of tests are inconclusive)
+
 --- 
 ## Recommendations 
 1.	Increase staff availability on Thursdays to manage peak admissions and also allocate more resources on Tuesdays for emergency cases.
