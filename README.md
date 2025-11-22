@@ -60,9 +60,9 @@ This project analyzes City General Hospital’s data to tackle challenges like E
 --- 
  
 ## Project Files (included) 
--	`Dashboard.xlsx` — interactive dashboard file   
--	`/datasets/` — raw data files used for analysis (CSV / XLSX)   
--	`Presentation.pdf` — boardroom slide deck (10–12 slides)   
+-	`City Hospital Dashboard.xlsx` — interactive dashboard file   
+-	`/City Hospital datasets/` — raw data files used for analysis (CSV / XLSX)   
+-	`Presentation City Hospital Performance and Efficiency.pdf` — boardroom slide deck (10–12 slides)   
 -	`README.md` — this documentation 
  
 --- 
