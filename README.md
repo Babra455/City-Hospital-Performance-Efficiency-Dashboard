@@ -34,7 +34,7 @@ This project analyzes City General Hospital’s data to tackle challenges like E
 - Most patients are 50–59-year-old females
 - Highest admissions occur on Thursdays, while emergency cases spike on Tuesdays, highlighting key days for staff and resource planning
 - Aetna Insurance shows lower payment amounts compared to other providers,while Cigna has the highest billing payments. Medicare covers the largest number of patients, whereas Cigna has the fewest
-- Top 10 doctors handle the majority of patients, while some doctors have significantly fewer cases.
+- The top 10 doctors manage the majority of patients, each handling more than 15 cases, while other doctors see significantly fewer.
 - Lipitor is used most frequently and should be prioritized for restocking.
 - Emergency cases spike on Tuesdays, requiring staff and resource planning.
 - Out of 55,500 tests, 19,425 are inconclusive, indicating potential issues with lab processes or equipment.( Approximately 35% of tests are inconclusive)
