@@ -21,7 +21,7 @@ This project analyzes City General Hospital’s data to tackle challenges like E
  
 ## Datasets 
 
-**Patients.csv / Patients.xlsx** - patient ID, age, gender, blood type, medical condition, date of admission, doctor, hospital, insurance provider, billing amount, room number, admission type, discharge date, medication, test results, hospital latitude, hospital longitude
+**Patients.csv** - patient ID, age, gender, blood type, medical condition, date of admission, doctor, hospital, insurance provider, billing amount, room number, admission type, discharge date, medication, test results, hospital latitude, hospital longitude
 
 --- 
 ## Dashboard Features 
