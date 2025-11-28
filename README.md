@@ -72,7 +72,7 @@ This project analyzes City General Hospital’s data to tackle challenges like E
 1.	Open `City Hospital Dashboard.xlsx` in Excel (desktop recommended)   
 2.	Enable content (if prompted) to allow Pivot Tables and slicers to work   
 3.	Use slicers to filter for Age group, Day of the week , Medication type.   
-4.	Refer to `Presentation City Hospital Performance and Efficciency.pdf` for a summary of insights and recommended actions 
+4.	Refer to `Presentation City Hospital Performance and Efficiency.pdf` for a summary of insights and recommended actions 
  
  
 
